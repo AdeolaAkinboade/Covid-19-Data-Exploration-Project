@@ -11,7 +11,7 @@ AIM
 The aim of this project is to analyse the deaths,vaccinations,and Covid-19 cases worldwide. From there, compare the data as per population,location as well as
 look at it ,in comparison to the global numbers of deaths,cases and its percentage global.
 
-This will answer the following :
+THIS WILL ANSWER THE FOLLOWING :
 
 What is the projected forecast of Covid-19 infections per population?
 Which continent has the highest death count from Covid-19?
