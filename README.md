@@ -25,7 +25,11 @@ METHOD OF ANALYSIS
 How this analysis will be conducted :
 
 The use of Microsoft SQL server to query the necessary Covid-19 data we'd like to investigate
-Cleaning the data by craeting new columns with grouped data split for more accessiblity and further analysis
+Cleaning the data by craeting new columns with grouped data split for more accessiblity and further analysis.
+The database used is information obtained from 'Our World Data'.
+Conversion of the SQL data fro the MS SQL server to Excel,for Tableau usablity 
+Tableau for the dashboard and visualizations
+
 
 SQL queries used in the project include:
 
@@ -60,8 +64,7 @@ Aliases
 Is not null
 
 
-The database used is information obtained from 'Our World Data'
-Tableau for the dashboard and visualizations
+
 
 
 THE CONCLUSION
